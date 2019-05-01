@@ -12,12 +12,12 @@ namespace responsi
         {
             karyawan krywn = new karyawan();
 
-            krywn.nama = "Hairul";
-            krywn.nik = "0126";
+            krywn.nama = "Faqih";
+            krywn.nik = "1234";
             krywn.gaji = 1000000;
 
-            krywn.nama2 = "Akhyar";
-            krywn.nik2 = "0805";
+            krywn.nama2 = "Primawan";
+            krywn.nik2 = "5678";
             krywn.gaji2 = 2000000;
 
             krywn.infoGaji();
